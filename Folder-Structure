@@ -1,0 +1,9 @@
+linux-secure-ssh-project/
+│
+├── README.md
+├── commands.sh
+├── screenshots/
+│   ├── user-setup.png
+│   ├── ssh-key.png
+│   ├── permission-test.png
+│   └── ssh-config.png
